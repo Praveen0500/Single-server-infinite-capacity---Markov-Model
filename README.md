@@ -1,4 +1,4 @@
-# Single server with infinite capacity (M/M/1):(oo/FIFO)
+# 4. Single server with infinite capacity (M/M/1):(oo/FIFO)
 
 ## DEVELOPED BY : PRAVEEN S
 
